@@ -1,4 +1,4 @@
-import "./Index.css";
+import "./index.css";
 import HeroSection from "../../Util/HeroSection";
 import AboutSection from "../../Util/AboutSection";
 import EventSection from "../../Util/EventSection";
