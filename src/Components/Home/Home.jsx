@@ -2,7 +2,7 @@ import "./index.css";
 import HeroSection from "../../Util/HeroSection";
 import AboutSection from "../../Util/AboutSection";
 import EventSection from "../../Util/EventSection";
-import PortfolioSection from "../Portfolio/Index"
+import PortfolioSection from "../Portfolio/index"
 import FooterSection from "../../Util/FooterSection";
 import NavBar from "../../Util/NavBar";
 import ContactUs from "../../Util/ContactUs";
