@@ -10,7 +10,7 @@ export default function AlbumPage() {
 
   useEffect(() => {
     const fetchPhotos = async () => {
-      const res = await API.get(`/images/album/${name}`);
+      const res = await API.get(`/images/album/v1/${name}`);
       setPhotos(res.data);
     };
     fetchPhotos();
